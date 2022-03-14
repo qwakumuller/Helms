@@ -1,0 +1,14 @@
+cdapiVersion: v1
+entries:
+  java:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-03-13T21:50:20.042273-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 9f2a0ad1c5f12c74411da23ce466b0da3922398e97d6a581ee294599b79d74f2
+    name: java
+    type: application
+    urls:
+    - java-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-13T21:50:20.038132-04:00"
